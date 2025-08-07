@@ -33,8 +33,6 @@ With over **14 years of experience** in software development, DevOps, and infras
 ---
 
 ## 📈 GitHub Stats
-
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuelramosdevops&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelramosdevops&layout=compact&theme=radical)
 
 ---
