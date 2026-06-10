@@ -8,7 +8,7 @@ I design and operate cloud platforms that improve **reliability, security, and d
 
 ## 🧑‍💻 About Me
 
-- 🏗 **Senior Platform Engineer** @ Alternative Payments — multi-account AWS, EKS, GitOps with ArgoCD across 40+ microservices
+- 🏗 **Senior Platform Engineer** — multi-account AWS, EKS, GitOps with ArgoCD across 40+ microservices
 - ✅ **AWS Certified** (Solutions Architect & SysOps Administrator – Associate)
 - 📦 **CKAD** (Certified Kubernetes Application Developer) & **HashiCorp Terraform Associate**
 - 🔁 Expert in **CI/CD, GitOps, IaC, observability, and platform security** (SOC 2 readiness)
