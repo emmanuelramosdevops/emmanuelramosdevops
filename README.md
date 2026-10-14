@@ -19,7 +19,7 @@ I design and operate cloud platforms that improve **reliability, security, and d
 - Built a **real-time analytics platform** streaming PostgreSQL CDC into ClickHouse
 - Set up observability with **Datadog and OpenTelemetry** across 40+ services
 
-Worked remotely with clients such as Indeed, OfferUp, John Deere, Serasa Experian, and Alternative Payments.
+Worked remotely with clients such as Indeed, OfferUp, John Deere, Serasa Experian, and AME Digital.
 
 ---
 
