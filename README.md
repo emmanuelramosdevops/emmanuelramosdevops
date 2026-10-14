@@ -1,74 +1,57 @@
-# 👋 Hello, I'm Emmanuel Ramos!
+# Hi, I'm Emmanuel Ramos 👋
 
-🚀 Senior Platform Engineer | AWS Certified | GitOps & Kubernetes
+**Senior Platform Engineer** · AWS · Kubernetes · GitOps · Terraform
 
-I design and operate cloud platforms that improve **reliability, security, and delivery speed** for engineering teams building distributed systems. With **15+ years of experience** across platform engineering, DevOps, and software architecture, I help teams ship faster and run safer.
+I design and operate cloud platforms that improve **reliability, security, and delivery speed** for engineering teams building distributed systems. 15+ years across platform engineering, DevOps, and software architecture — from Java backends to multi-account AWS and EKS.
 
----
-
-## 🧑‍💻 About Me
-
-- 🏗 **Senior Platform Engineer** — multi-account AWS, EKS, GitOps with ArgoCD across 40+ microservices
-- ✅ **AWS Certified** (Solutions Architect & SysOps Administrator – Associate)
-- 📦 **CKAD** (Certified Kubernetes Application Developer) & **HashiCorp Terraform Associate**
-- 🔁 Expert in **CI/CD, GitOps, IaC, observability, and platform security** (SOC 2 readiness)
-- 🌎 Worked remotely with global clients (Indeed, OfferUp, AME Digital, Serasa Experian, John Deere)
-- 🎓 B.S. in Information Systems • 🇧🇷 Based in São Paulo, Brazil • 🗣 Portuguese (native) / English (proficient)
+<!-- Uncomment if you're looking: -->
+<!-- > 🔎 Open to Senior Platform / SRE roles (remote) -->
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## Highlights
 
-**Cloud & Platform:**  
-`AWS` | `EKS` | `EC2` | `RDS` | `S3` | `CloudFront` | `VPC` | `Lambda` | `Route 53` | `CloudWatch` | `Karpenter`
+- Led a **zero-downtime EKS migration** and GitOps delivery (ArgoCD) for **40+ microservices**, with centralized secret management
+- Architected a **multi-account AWS environment** with private connectivity, network segmentation, and cross-VPC routing
+- Led **FinOps** across AWS (Reserved Instances, Savings Plans) and Datadog log optimization, saving **$34K+ per year**
+- Drove **SOC 2 Type I & II readiness** through platform controls, security tooling, and audit preparation
+- Cut **deployment lead time by ~75%** by reworking GitHub Actions workflows
+- Built a **real-time analytics platform** streaming PostgreSQL CDC into ClickHouse
+- Set up observability with **Datadog and OpenTelemetry** across 40+ services
 
-**IaC & GitOps:**  
-`Terraform` | `ArgoCD` | `Helm` | `GitHub Actions` | `GitLab CI`
-
-**Containers & Orchestration:**  
-`Kubernetes` | `Docker` | `Istio`
-
-**Observability:**  
-`Datadog` | `Prometheus` | `Grafana` | `OpenTelemetry` | `PostHog` | `ELK`
-
-**Data & Messaging:**  
-`PostgreSQL` | `MySQL` | `Oracle` | `ClickHouse` | `Kafka` | `RabbitMQ`
-
-**Programming:**  
-`Java` | `Bash` | `Python` | `Scala` | `Node.js`
+Worked remotely with clients such as Indeed, OfferUp, John Deere, Serasa Experian, and AME Digital.
 
 ---
 
-## 🚀 Highlights
+## Tech Stack
 
-- ⚡ Led a **zero-downtime EKS migration** and standardized delivery with GitOps (ArgoCD) for 40+ microservices
-- 🔐 Drove **SOC 2 Type I & II readiness** with platform controls, security tooling, and audit preparation
-- 📉 Reduced **deployment lead time by ~75%** by improving GitHub Actions workflows
-- 📊 Built a **real-time analytics platform** streaming PostgreSQL CDC into ClickHouse
-- 👁 Set up end-to-end **observability** with Datadog, Prometheus, Grafana, and OpenTelemetry across 40+ services
-
----
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelramosdevops&layout=compact&theme=radical&hide=Smarty,Mustache)
+| Area | Tools |
+|---|---|
+| **Cloud** | AWS (EKS, EC2, RDS, S3, VPC, CloudFront, Lambda, SNS/SQS, Route 53, CloudWatch), Karpenter |
+| **IaC & GitOps** | Terraform, ArgoCD, Helm, GitHub Actions, GitLab CI |
+| **Containers** | Kubernetes, Docker, Istio |
+| **Observability** | Datadog, Prometheus, Grafana, OpenTelemetry, ELK, PostHog |
+| **Data & Messaging** | PostgreSQL, MySQL, Oracle, ClickHouse, Kafka, RabbitMQ |
+| **Languages** | Java, Bash, Scala, Node.js |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 📦 Certified Kubernetes Application Developer (CKAD) — *Linux Foundation, 2023*
-- 🧱 HashiCorp Certified: Terraform Associate (003) — *HashiCorp, 2023*
-- 🛡 AWS Certified SysOps Administrator – Associate — *AWS, 2022*
-- 🧠 AWS Certified Solutions Architect – Associate — *AWS, 2022*
-- ☕ Oracle Certified Professional, Java SE 6 Programmer — *Oracle, 2011*
-
----
-
-## 🌎 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelframos/)  
-📫 emmanuelframos@gmail.com
+- Certified Kubernetes Application Developer (**CKAD**) — Linux Foundation, 2023
+- HashiCorp Certified: **Terraform Associate (003)** — 2023
+- AWS Certified **SysOps Administrator – Associate** — 2022
+- AWS Certified **Solutions Architect – Associate** — 2022
+- Oracle Certified Professional, Java SE 6 Programmer — 2011
+- 📚 Currently preparing for the **Certified Kubernetes Administrator (CKA)**
 
 ---
 
-### 💡 "Deliver fast. Fail smart. Recover faster."
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuelframos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelframos/)
+[![Email](https://img.shields.io/badge/Email-emmanuelframos%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmanuelframos@gmail.com)
+
+São Paulo, Brazil 🇧🇷 · Portuguese (native) · English (proficient)
+
+> *Deliver fast. Fail smart. Recover faster.*
